@@ -1,25 +1,33 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-12-21 17:14:32
-categories: jekyll update
+title:  "Welcome to Toft and Toddy!"
+date:   2014-12-21 21:59:32
+categories: meta list
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hello there!
 
-Jekyll also offers powerful support for code snippets:
+My name is __Christopher Rodriguez__, and I run this site.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I'll be discussing the different projects I am working on each day,
+including such widely varying subjects as:
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+- Board Games
+- Video Games
+- Short Stories
+- Visual Novels
+- Web Design
+- Scripting
+- Music
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+It's my hope that this blog will keep me focused, and give me
+something to look back on in a year to prove that I have indeed been
+productive.
+
+Check out the [my homepage][cdr255] if You'd like to see the fruits of
+my labor after the fact. If You have an idea for a project You'd like me to work on, or an improvement to one of my projects, [email me][email]. And follow me on [Twitter][twitter] for more to-the-minute ideas, too.
+
+
+[cdr255]: http://www.cdr255.com/ "Maintained with all open technologies."
+[email]: mailto:cdr255@gmail.com "You can also write to say hello!"
+[twitter]: http://www.twitter.com/cdr255 "I try to post a few times a day."
