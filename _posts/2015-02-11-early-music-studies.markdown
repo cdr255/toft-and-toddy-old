@@ -100,7 +100,7 @@ respond as I am able. Talk to You soon!
 [latin]: http://en.wikipedia.org/wiki/Paraguayan_harp " "
 [jpop]: http://en.wikipedia.org/wiki/J-pop " "
 [vgm]: http://en.wikipedia.org/wiki/Video_game_music " "
-[chipmusic]: http://en.wikipedia.org/wiki/Chiptune " "
+[chiptune]: http://en.wikipedia.org/wiki/Chiptune " "
 [early]: http://en.wikipedia.org/wiki/Early_music " "
 [baroque]: http://en.wikipedia.org/wiki/Baroque_music " "
 [renaissance]: http://en.wikipedia.org/wiki/Renaissance_music " "
