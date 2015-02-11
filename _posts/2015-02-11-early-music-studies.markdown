@@ -11,7 +11,7 @@ experiences as I go!
 
 ### My Love for Early Music ###
 
-[![A Picture of Some Illuminated Music](https://s3.amazonaws.com/toft-and-toddy/02-15-ave-maria.jpg "Hymn Ave Maria Gratia. Source: James Freeman, at publicdomainreview.org"){: .graphic}](https://s3.amazonaws.com/toft-and-toddy/02-15-ave-maria.jpg)
+[![A Picture of Some Illuminated Music](https://s3.amazonaws.com/toft-and-toddy/small-02-15-ave-maria.jpg "Hymn Ave Maria Gratia. Source: James Freeman, at publicdomainreview.org"){: .graphic}](https://s3.amazonaws.com/toft-and-toddy/02-15-ave-maria.jpg)
 
 Anyone who knows me knows about my love for some fairly odd forms of
 music. I listen to a lot of Traditional music (Mostly [Irish][irish]
@@ -33,7 +33,7 @@ musical history.
 
 ### My Instruments, as of Now ###
 
-[![My Harp, and my two Recorders- a Soprano and a Sopranino](https://s3.amazonaws.com/toft-and-toddy/02-15-harp-and-recorders.jpg "My two recorders- a Yamaha Soprano and an Alder Sopranino- and my Harp, a Camac Hermine."){: .graphic}](https://s3.amazonaws.com/toft-and-toddy/02-15-harp-and-recorders.jpg)
+[![My Harp, and my two Recorders- a Soprano and a Sopranino](https://s3.amazonaws.com/toft-and-toddy/small-02-15-harp-and-recorders.jpg "My two recorders- a Yamaha Soprano and an Alder Sopranino- and my Harp, a Camac Hermine."){: .graphic}](https://s3.amazonaws.com/toft-and-toddy/02-15-harp-and-recorders.jpg)
 
 As it stands, I currently have three instruments which fit well into
 this type of music: A Harp, and two Recorders. (Yes, a recorder is a
@@ -59,7 +59,7 @@ that I might find.
 
 ### An Instrument of my Desires ###
 
-[![Crumhorns by Michael Praetorius](https://s3.amazonaws.com/toft-and-toddy/02-15-crumhorns.png "Crumhorns drawing by Michael Praetorius in Syntagma Musicum c. 1615"){: .graphic}](https://s3.amazonaws.com/toft-and-toddy/02-15-crumhorns.png)
+[![Crumhorns by Michael Praetorius](https://s3.amazonaws.com/toft-and-toddy/small-02-15-crumhorns.png "Crumhorns drawing by Michael Praetorius in Syntagma Musicum c. 1615"){: .graphic}](https://s3.amazonaws.com/toft-and-toddy/02-15-crumhorns.png)
 
 I will eventually obtain a [Crumhorn][crumhorn] for myself. I have
 wanted one for a few years now, as it is probably my favorite
@@ -75,7 +75,7 @@ be putting the bulk of it towards getting myself one of these. Until then, I wil
 
 ### Repertoire and Products ###
 
-[![Mensural Manuscript of Missa de Beata Virgine](https://s3.amazonaws.com/toft-and-toddy/02-15-kyrie.jpg "c. ~1500 manuscript by Josquin des Prez of Missa de Beata Virgine, in Mensural Notation"){: .graphic}](https://s3.amazonaws.com/toft-and-toddy/02-15-kyrie.jpg)
+[![Mensural Manuscript of Missa de Beata Virgine](https://s3.amazonaws.com/toft-and-toddy/small-02-15-kyrie.jpg "c. ~1500 manuscript by Josquin des Prez of Missa de Beata Virgine, in Mensural Notation"){: .graphic}](https://s3.amazonaws.com/toft-and-toddy/02-15-kyrie.jpg)
 
 For repertoire, I will delve into the many Albums I have amassed over
 the years, as well as look through some manuscripts of which I am
