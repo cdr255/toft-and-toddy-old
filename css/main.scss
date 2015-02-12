@@ -58,3 +58,26 @@ $on-laptop:        800px;
 	 margin-top: 1%;
 	 border: 3px ridge #333333;
 }
+
+table {
+      width: 90%;
+      border: solid 5px #000000;
+      border-spacing: 0px;
+}
+
+td {
+   border-right: solid 5px #222222;
+   border-left: solid 5px #222222;
+
+}
+
+thead {
+      background: #222222;
+      color: #DDDDDD;
+}
+
+tfoot {
+      background: #222222;
+      color: #DDDDDD;
+      font-weight: bold;
+}
