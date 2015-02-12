@@ -2,7 +2,8 @@
 layout: post
 title:  "Replacing a Harp Lever"
 date:   2014-12-28 19:50:37
-categories: music harp process maintenance
+tags: [music, harp, process, maintenance]
+
 ---
 
 Tonight, I replace the two broken levers on my harp (with pictures

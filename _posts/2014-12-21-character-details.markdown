@@ -2,7 +2,8 @@
 layout: post
 title:  "Character Details"
 date:   2014-12-21 22:13:48
-categories: writing downloads code
+tags: [writing, downloads, code]
+
 ---
 
 I play a lot of [Tabletop Roleplaying Games][ttrpgs] in my spare time.

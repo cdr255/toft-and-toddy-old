@@ -1,2 +1,35 @@
 - slug: recorder
-  tag: Recorder
+  name: Recorder
+
+- slug: early_music
+  name: Early Music
+
+- slug: meta
+  name: Meta
+
+- slug: lists
+  name: Lists
+
+- slug: music
+  name: Music
+
+- slug: harp
+  name: Harp
+
+- slug: crumhorn
+  name: Crumhorn
+
+- slug: process
+  name: Process
+
+- slug: maintenance
+  name: Maintenance
+
+- slug: writing
+  name: Writing
+
+- slug: downloads
+  name: Downloads
+
+- slug: code
+  name: Code

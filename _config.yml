@@ -13,3 +13,5 @@ github_username:  cdr255
 markdown: kramdown
 
 highlighter: pygments
+gems:
+- jekyll-sitemap
