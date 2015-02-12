@@ -2,7 +2,7 @@
 layout: post
 title:  "Early Music Studies"
 date:   2015-02-11 15:33:32
-tags: [music, early_music, harp, recorder, crumhorn, overview]
+categories: music early_music harp recorder crumhorn overview
 ---
 
 Today, I want to outline the beginnings of a new project: I am
