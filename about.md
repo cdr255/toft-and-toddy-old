@@ -27,3 +27,7 @@ _not_ work towards a product).
 I will talk about anything I want on either, of course. But the goal
 is to have these two blogs completely represent me in terms of my
 writing.
+
+
+[toft]: toftandtoddy.com " "
+[tumblingowl]: tumblingowl.com " "
