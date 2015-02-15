@@ -11,7 +11,10 @@ record the process here... so in the future, it will be easy.
 
 ### Getting Ready ###
 
-Before You can install [Haskell][haskell], You need [Haskell][haskell] installed on Your machine. This means that You need to find a generic, binary distribution of the compiler (et al) to stand in for the time being.
+Before You can install [Haskell][haskell], You need [Haskell][haskell]
+installed on Your machine. This means that You need to find a generic,
+binary distribution of the compiler (et al) to stand in for the time
+being.
 
 You also need [cabal-install][cabal-web], which is used as a part of
 the buildchain and as a package installer for [Haskell][haskell].
@@ -23,9 +26,7 @@ Here are some links for the most up-to-date versions of the above (for
 GNU/Linux, as that is what I use. If You use Windows or OS/X, please
 see the main [Haskell-Platform][platform] website.
 
-|----------------------+------------------------+-----------------|
 | [binary-dist][bin86] | [cabal-install][cab86] | [source][src86] |
-|----------------------+------------------------+-----------------|
 
 ### Building and Installing ###
 
