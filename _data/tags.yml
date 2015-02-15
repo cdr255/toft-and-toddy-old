@@ -33,3 +33,12 @@
 
 - slug: code
   name: Code
+
+- slug: computers
+  name: Computers
+
+- slug: haskell
+  name: Haskell
+
+- slug: programming
+  name: Programming
